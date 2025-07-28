@@ -1,0 +1,2 @@
+[23/07/2025] Hoy comenzamos el proyecto. Creamos la estructura inicial y definimos los objetivos principales.
+[24/07/2025] Se avanzó en el diseño de la interfaz principal y se discutieron ideas para la funcionalidad de usuario.
